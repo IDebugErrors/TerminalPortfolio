@@ -65,10 +65,16 @@ My main focus is on four core areas of software engineering as of now :
 <p>I'm available to work on private or open-source projects</p>
   <p>Fork/Open pull requests on my github project repositories (Some projects are still private and under development) or Shoot me an e-mail </p>
   <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/IDebugErrors">Github</a></p>
-  <p> 📨 <a href="mailto:jaypatel@programmer.net">Jaypatel@programmer.net </a></p>
+  <p> 📨 <a href="mailto:jaypatel@programmer.net">Jaypatel@programmer.net </a></p> 
+  <ul>---Blogs</ul>
+  <li><a rel="noreferrer" target="_blank" href="https://downeyrificjay.medium.com/content-fatigue-is-real-57f4e19b0d49">Content Fatigue is real.</a></li>
+  <li><a rel="noreferrer" target="_blank" href="https://dev.to/jaypatel/mac-os-big-sur-11-2-on-unsupported-mac-s-21go">Big Sur 11.2 on Unsupported Mac's.</a></li>
   <p> I will add Projects and Blogs section soon or (May be) I will develop a totally new portfolio as soon as I get a good front-end design idea. </p>
-  <p> PEACE </p>
+  <p> PEACE </p> 
+
 </>
+
+
   }
 }
 

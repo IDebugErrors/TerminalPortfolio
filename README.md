@@ -1,14 +1,14 @@
 # Portfolio In Terminal Style
 
-![Terminal in browser](/public/example.gif)
+
 
 This is a SPA in reactJS with a MacOS terminal style. The terminal is a draggable and resizable React component and has sections about me, so it's will be my personal portfolio for while.
 
-See the [demo](https://raulpy271.github.io) page.
+
 
 If you are interested in using this app for your portfolio, see the sections: [How to setup](#how-to-setup) and [Deploy](#deploy).
 
-#### To turn the terminal draggable i used this [library](https://github.com/raulpy271/DraggableDialog)
+
 
 ## How to setup
 

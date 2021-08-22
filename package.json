@@ -1,7 +1,7 @@
 {
   "name": "test"  ,
   "version": "0.1.0",
-  "homepage": "https://idebugerrors.github.io/TerminalPortfolio",
+  "homepage": "https://idebugerrors.github.io/TerminalPortfolio/",
   "private": true,
   "dependencies": {
     "draggable_dialog": "^1.0.2",

@@ -37,7 +37,7 @@
   "homepage": "https://IDebugErrors.github.io/TerminalPortfolio",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IDebugErrors/TerminalPortfolio.git"
+    "url": "git+https://github.com/IDebugErrors/TerminalPortfolio"
   },
   "author": "Jaypatel",
   "license": "MIT",

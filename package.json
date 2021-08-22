@@ -34,7 +34,7 @@
     ]
   },
   "description": "A portfolio template in ReactJS for developers with terminal style",
-  "homepage": "https://IDebugErrors.github.io/TerminalPortfolio",
+  "homepage": "https://idebugerrors.github.io/TerminalPortfolio",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IDebugErrors/TerminalPortfolio"

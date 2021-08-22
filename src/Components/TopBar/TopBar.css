@@ -1,0 +1,46 @@
+#topBar {
+  display : block;
+  position : relative;
+  color : black;
+  background-color : #eee;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+}
+
+
+#topBar:hover {
+  cursor : grab;
+}
+
+
+.buttons {
+  display : inline;
+  position : absolute;
+  left : 2%;
+}
+
+
+.button {
+  display : inline-block;
+  border-radius : 100%;
+}
+
+
+.button:hover {
+  cursor : pointer;
+  box-shadow: 0px 0px 3px 1px;
+}
+
+
+.button:active {
+  opacity: 20%;
+  box-shadow: 0px 0px 6px 3px;
+}
+
+
+#title {
+  display : inline;
+}
+
+

@@ -1,0 +1,23 @@
+.promptDiv, #promptText {
+  display: inline;
+}
+
+
+.outputDiv {
+  display : block;
+  position : relative;
+  height : 90%;
+  overflow : auto;
+}
+
+
+a {
+  color: currentColor;
+}
+
+
+a:active {
+  color : white;
+}
+
+

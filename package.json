@@ -1,7 +1,7 @@
 {
-  "name": "test"  ,
+  "name": "test",
   "version": "0.1.0",
-  "homepage": "https://idebugerrors.github.io/TerminalPortfolio/",
+  "homepage": "https://idebugerrors.github.io/TerminalPortfolio",
   "private": true,
   "dependencies": {
     "draggable_dialog": "^1.0.2",
@@ -13,13 +13,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build"
-    
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
       "react-app"
-       ]
+    ]
   },
   "browserslist": {
     "production": [
@@ -34,13 +33,11 @@
     ]
   },
   "description": "A portfolio template in ReactJS for developers with terminal style",
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IDebugErrors/TerminalPortfolio"
   },
   "author": "Jaypatel",
-  
   "bugs": {
     "url": "https://github.com/IDebugErrors"
   },
